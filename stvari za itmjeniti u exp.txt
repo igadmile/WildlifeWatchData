@@ -1,0 +1,9 @@
+bike 
+{ "type": "Feature", "properties": {
+zamjeniti u:
+{type:"Feature",properties:{color_qgis2leaf:"#3f9155",radius_qgis2leaf:3.3,transp_qgis2leaf:.8,transp_fill_qgis2leaf:.8,
+
+hike
+{ "type": "Feature", "properties": {
+zamjeniti u:
+{type:"Feature",properties:{color_qgis2leaf:"#b34648",radius_qgis2leaf:2.3,transp_qgis2leaf:.8,transp_fill_qgis2leaf:.8,

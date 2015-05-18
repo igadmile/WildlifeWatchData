@@ -8,6 +8,7 @@ Sjeverni Velebit Staza 1
 Sjeverni Velebit Staza 2
 Sjeverni Velebit Staza 3
 Sjeverni Velebit Staza 4
+Sjeverni Velebit Staza 5
 Kaludjerovac_Perusic_Kosinj_Kruscica
 Perušić-Kosinj-Sjeverni Velebit-Perušić
 Baške Oštarije-Stupačinovo-Prpići
@@ -18,3 +19,8 @@ Veliki kamenjar
 Gračac – Tulove grede
 Južni Velebit
 Zrmanja - Krupa
+Jadovno – Svetište Marije Pomočnice
+Gospić - Jadovno
+Brušane-Rizvanuša-Brušane
+Velebitski classic: Senj-Zavižan
+Zavižan_Mrkvište
