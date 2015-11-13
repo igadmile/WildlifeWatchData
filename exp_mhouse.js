@@ -27,9 +27,9 @@ var exp_mhouse = {
 { "type": "Feature", "properties": { "name": "Paklenica" }, "geometry": { "type": "Point", "coordinates": [ 15.48262, 44.34578 ] } },
 { "type": "Feature", "properties": { "name": "Ivine vodice" }, "geometry": { "type": "Point", "coordinates": [ 15.53677, 44.33654 ] } },
 { "type": "Feature", "properties": { "name": "Vlaški grad" }, "geometry": { "type": "Point", "coordinates": [ 15.55205, 44.32682 ] } },
-{ "type": "Feature", "properties": { "name": "Dušice" }, "geometry": { "type": "Point", "coordinates": [ 15.58604, 44.31777 ] } },
-{ "type": "Feature", "properties": { "name": "Zlatino sklonište" }, "geometry": { "type": "Point", "coordinates": [ 15.56098, 44.30262 ] } },
+{ "type": "Feature", "properties": { "name": "Dušice" }, "geometry": { "type": "Point", "coordinates": [ 15.58566, 44.3177 ] } },
 { "type": "Feature", "properties": { "name": "Planinarsko sklonište Visočica" }, "geometry": { "type": "Point", "coordinates": [ 15.35998, 44.43232 ] } },
-{ "type": "Feature", "properties": { "name": "Planinarsko sklonište Crnopac" }, "geometry": { "type": "Point", "coordinates": [ 15.83239, 44.26383 ] } }
+{ "type": "Feature", "properties": { "name": "Planinarsko sklonište Crnopac" }, "geometry": { "type": "Point", "coordinates": [ 15.83239, 44.26383 ] } },
+{ "type": "Feature", "properties": { "name": "Zlatno sklonište" }, "geometry": { "type": "Point", "coordinates": [ 15.58113, 44.29182 ] } }
 ]
-}
+};

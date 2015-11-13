@@ -22,4 +22,4 @@ var exp_accommodation = {
 { "type": "Feature", "properties": { "name": "Apartmani Manjan" }, "geometry": { "type": "Point", "coordinates": [ 15.052, 44.82128, 779.35 ] } },
 { "type": "Feature", "properties": { "name": "Kuća za odmor" }, "geometry": { "type": "Point", "coordinates": [ 15.04806, 44.82161, 801.23 ] } }
 ]
-}
+};
