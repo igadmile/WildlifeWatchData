@@ -1,7 +1,5 @@
 var exp_scenery = {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
 "features": [
 { "type": "Feature", "properties": { "name": "Vratnik" }, "geometry": { "type": "Point", "coordinates": [ 14.98548, 44.97832, 0.0 ] } },
 { "type": "Feature", "properties": { "name": "Krasno" }, "geometry": { "type": "Point", "coordinates": [ 15.08808, 44.82581, 0.0 ] } },

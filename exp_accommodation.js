@@ -1,7 +1,5 @@
 var exp_accommodation = {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
+"type": "FeatureCollection",                                                                                
 "features": [
 { "type": "Feature", "properties": { "name": "Lika 131" }, "geometry": { "type": "Point", "coordinates": [ 15.29163, 44.64469, 0.0 ] } },
 { "type": "Feature", "properties": { "name": "Trnovac102" }, "geometry": { "type": "Point", "coordinates": [ 15.28207, 44.52179, 0.0 ] } },

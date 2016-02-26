@@ -1,7 +1,5 @@
 var exp_mhouse = {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
 "features": [
 { "type": "Feature", "properties": { "name": "Sijaset" }, "geometry": { "type": "Point", "coordinates": [ 14.96781, 44.96332 ] } },
 { "type": "Feature", "properties": { "name": "Oltari" }, "geometry": { "type": "Point", "coordinates": [ 14.98369, 44.87358 ] } },
